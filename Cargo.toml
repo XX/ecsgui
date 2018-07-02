@@ -1,0 +1,9 @@
+[package]
+name = "ecsgui"
+version = "0.1.0"
+authors = ["XX <freecoder.xx@gmail.com>"]
+
+[dependencies]
+specs = "0.12"
+specs-derive = "0.2"
+specs-hierarchy = { git = "https://github.com/XX/specs-hierarchy.git", branch = "specs_0.12" }
